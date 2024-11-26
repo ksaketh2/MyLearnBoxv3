@@ -13,3 +13,4 @@
 12. Ability to load the saved tabs from the file
 13. Ability to copy the url of the current page
 14. Ability to copy the url of all tabs (useful for 11 and 12 point)
+15. Settings icon to the top right corner
