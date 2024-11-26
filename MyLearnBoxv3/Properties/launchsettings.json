@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "MyLearnBoxv3 (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "MyLearnBoxv3 (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
