@@ -1,0 +1,15 @@
+﻿
+1. Tab views for multiple pages
+2. Save history
+3. Load history
+4. Delete history
+5. Logo
+6. Clickable history page
+7. Ability to open a custom page
+8. Ability to open multiple instances of the app
+9. Parameterise the instance title and source page
+10. Favorite pages and show them in list of favorites
+11. Ability to save all active tabs into a file
+12. Ability to load the saved tabs from the file
+13. Ability to copy the url of the current page
+14. Ability to copy the url of all tabs (useful for 11 and 12 point)
